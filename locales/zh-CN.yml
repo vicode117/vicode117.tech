@@ -12,3 +12,11 @@ intro:
   aka: 也叫
   whats-your-name: 输入你的名字
 not-found: 未找到页面
+home:
+  interesting_technology: 有趣的技术
+  work_issues: 工作问题
+  learning: 学习中
+learning:
+  mdn_learning: MDN学习
+mdn_learning:
+  html_basic: HTML 基础
