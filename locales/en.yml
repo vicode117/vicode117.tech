@@ -12,3 +12,11 @@ intro:
   aka: Also known as
   whats-your-name: What's your name?
 not-found: Not found
+home:
+  interesting_technology: Interesting technology
+  work_issues: Work issues
+  learning: Learning
+learning:
+  mdn_learning: MDN learning
+mdn_learning:
+  html_basic: HTML Basic
